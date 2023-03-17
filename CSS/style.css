@@ -5,7 +5,7 @@
 
 body {
   height: 100vh;
-  background-color: rgb(129, 209, 139);
+  background-color: rgb(143, 219, 153);
   background-image: radial-gradient(rgb(117, 224, 151),
       rgba(159, 212, 156, 0.541),
       rgb(224, 221, 243));
